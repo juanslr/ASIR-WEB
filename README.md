@@ -4,10 +4,6 @@ Una web para Lenguaje de Marcas basada en la saga Terminator.
 ## Table of Contents
 - [Descripción](#descripción)
 - [Instalación](#instalación)
-- [Uso](#uso)
-- [Contribuir](#contribuir)
-- [Licencia](#licencia)
-- [Contacto](#contacto)
 
 ## Descripción
 La web se compone de un index, y tres paginas mas, ademas de un archibo css bastante detallado y intuitivo. 
